@@ -1,2 +1,4 @@
-<h1> Hello, Welcome to the world of Learning at its best!!Succesfull deployment !! All the best for future !! </h1>
+<h1> Hello, Welcome to the world of Learning!!
+     We have sucessfully deployed our app on tomcat
+</h1>
 
